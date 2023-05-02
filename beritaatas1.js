@@ -1,5 +1,5 @@
 //<![CDATA[
-var rcp_numposts=7;
+var rcp_numposts=9;
 var rcp_snippet_length=150;
 var rcp_info='yes';
 var rcp_comment='Comments';
